@@ -1,0 +1,6 @@
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\DataTable_Connecting_WithDataBase\bin\Debug\DataTable_Connecting_WithDataBase.exe.config
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\DataTable_Connecting_WithDataBase\bin\Debug\DataTable_Connecting_WithDataBase.exe
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\DataTable_Connecting_WithDataBase\bin\Debug\DataTable_Connecting_WithDataBase.pdb
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\DataTable_Connecting_WithDataBase\obj\Debug\DataTable_Connecting_WithDataBase.csprojResolveAssemblyReference.cache
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\DataTable_Connecting_WithDataBase\obj\Debug\DataTable_Connecting_WithDataBase.exe
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\DataTable_Connecting_WithDataBase\obj\Debug\DataTable_Connecting_WithDataBase.pdb

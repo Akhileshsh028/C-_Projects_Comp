@@ -1,0 +1,6 @@
+c:\users\akumar\documents\visual studio 2012\Projects\Adodotnet1\Adodotnet1\bin\Debug\Adodotnet1.exe.config
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\Adodotnet1\bin\Debug\Adodotnet1.exe
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\Adodotnet1\bin\Debug\Adodotnet1.pdb
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\Adodotnet1\obj\Debug\Adodotnet1.csprojResolveAssemblyReference.cache
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\Adodotnet1\obj\Debug\Adodotnet1.exe
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\Adodotnet1\obj\Debug\Adodotnet1.pdb

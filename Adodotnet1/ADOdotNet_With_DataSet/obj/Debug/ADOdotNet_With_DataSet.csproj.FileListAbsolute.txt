@@ -1,0 +1,9 @@
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\ADOdotNet_With_DataSet\obj\Debug\ADOdotNet_With_DataSet.Form1.resources
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\ADOdotNet_With_DataSet\obj\Debug\ADOdotNet_With_DataSet.Properties.Resources.resources
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\ADOdotNet_With_DataSet\obj\Debug\ADOdotNet_With_DataSet.csproj.GenerateResource.Cache
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\ADOdotNet_With_DataSet\bin\Debug\ADOdotNet_With_DataSet.exe.config
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\ADOdotNet_With_DataSet\bin\Debug\ADOdotNet_With_DataSet.exe
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\ADOdotNet_With_DataSet\bin\Debug\ADOdotNet_With_DataSet.pdb
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\ADOdotNet_With_DataSet\obj\Debug\ADOdotNet_With_DataSet.exe
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\ADOdotNet_With_DataSet\obj\Debug\ADOdotNet_With_DataSet.pdb
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\ADOdotNet_With_DataSet\obj\Debug\ADOdotNet_With_DataSet.csprojResolveAssemblyReference.cache

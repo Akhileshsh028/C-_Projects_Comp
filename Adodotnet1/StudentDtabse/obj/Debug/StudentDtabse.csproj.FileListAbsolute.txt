@@ -1,0 +1,10 @@
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\StudentDtabse\bin\Debug\StudentDtabse.exe.config
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\StudentDtabse\obj\Debug\StudentDtabse.csproj.ResolveComReference.cache
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\StudentDtabse\bin\Debug\StudentDtabse.exe
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\StudentDtabse\bin\Debug\StudentDtabse.pdb
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\StudentDtabse\obj\Debug\StudentDtabse.Form1.resources
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\StudentDtabse\obj\Debug\StudentDtabse.Properties.Resources.resources
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\StudentDtabse\obj\Debug\StudentDtabse.csproj.GenerateResource.Cache
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\StudentDtabse\obj\Debug\StudentDtabse.exe
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\StudentDtabse\obj\Debug\StudentDtabse.pdb
+C:\Users\akumar\documents\visual studio 2012\Projects\Adodotnet1\StudentDtabse\obj\Debug\StudentDtabse.csprojResolveAssemblyReference.cache
